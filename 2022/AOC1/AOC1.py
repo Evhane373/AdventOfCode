@@ -1,6 +1,4 @@
 from pathlib import Path
-
-
 input = open(Path(__file__).with_name("Input.txt"))
 #print(input.read())
 
