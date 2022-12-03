@@ -68,10 +68,10 @@ def ldw(a, x):
             
     print(score)
     return score
+    
+    
 inputList = input.read().split('\n')
 score = 0
-
-
 
 for x in inputList:
     xSplit = x.split(" ")
